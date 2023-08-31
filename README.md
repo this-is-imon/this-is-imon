@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Imran Hossain Imon</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast, Front End Developer from Bangladesh.</h3>
+<h3 align="center">A passionate Machine Learning and AI Enthusiast from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-imon&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-imon" /> </p>
 
-- 🔭 I’m currently working on **Cognitive Radio**
+- 🔭 I’m currently working on **Machine Learning and Artificial Intelligence**
 
-- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
+- 🌱 I’m currently learning **Software Testing**
 
-- 👯 I’m looking to collaborate on **Cloud Computing**
+- 👯 I’m looking to collaborate on **Computer Vision**
 
 - 🤝 I’m looking for help with **Artificial Intelligence**
 
